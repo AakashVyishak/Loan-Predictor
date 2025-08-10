@@ -1,9 +1,7 @@
 # 🏦 Loan Approval Prediction
 
 This project predicts **loan approval status** based on applicant demographic, financial, and credit history information using **machine learning classification models**.  
-I implemented and compared **Logistic Regression**, **Random Forest**, and **Decision Tree** classifiers, with results visualized using confusion matrices.  
-
-The dataset used is the [Kaggle Loan Approval Prediction Dataset](https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset) (provided in this repository).
+I implemented and compared **Logistic Regression**, **Random Forest**, and **Decision Tree** classifiers.
 
 ---
 
